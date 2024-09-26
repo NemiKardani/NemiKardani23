@@ -15,8 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nemi-kardani-33112b220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nemi-kardani-33112b220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21535557/nemi-kardani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21535557/nemi-kardani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nemi kardani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nemi kardani" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/nemi kardani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nemi kardani" height="30" width="40" /></a>
+<a href="https://fb.com/nemi kardani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nemi kardani" height="30" width="40" /></a>
+<a href="https://instagram.com/nemikardani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nemikardani" height="30" width="40" /></a>
+<a href="https://medium.com/nemi kardani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="nemi kardani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
